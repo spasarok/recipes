@@ -4,6 +4,7 @@
   * Glaze
 * Scalloped potatoes
 * Roasted carrots
+* Crispy sour cream and onion chicken
 * Bread (Emma)
 * Pecan pie
 
@@ -35,6 +36,10 @@ https://dinnerthendessert.com/brown-sugar-ham-glaze/
 ## Roasted Carrots
 
 https://www.spendwithpennies.com/roasted-carrots/
+
+## Chicken
+
+https://cooking.nytimes.com/recipes/1021131-crispy-sour-cream-and-onion-chicken
 
 ## Pecan Pie
 
