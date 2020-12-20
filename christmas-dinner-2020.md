@@ -4,6 +4,7 @@
   * Glaze
 * Scalloped potatoes
 * Roasted carrots
+* Bread (Emma)
 * Pecan pie
 
 ## Ham
