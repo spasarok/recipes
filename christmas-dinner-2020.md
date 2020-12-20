@@ -1,5 +1,11 @@
 # Christmas 2020
 
+* Ham
+  * Glaze
+* Scalloped potatoes
+* Roasted carrots
+* Pecan pie
+
 ## Ham
 
 https://cooking.nytimes.com/recipes/1015804-glazed-holiday-ham
@@ -25,4 +31,10 @@ https://dinnerthendessert.com/brown-sugar-ham-glaze/
 * Garlic
 * Peppercorn
 
+## Roasted Carrots
+
+https://www.spendwithpennies.com/roasted-carrots/
+
 ## Pecan Pie
+
+See recipe in repo
