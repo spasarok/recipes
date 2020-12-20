@@ -16,4 +16,6 @@
 ## Future
 
 * Figure out other spices
-* Peaches?
+* Add something smokey
+* Peaches
+* Pulled pork
