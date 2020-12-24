@@ -1,7 +1,7 @@
 # Mocktails
 
-https://www.townandcountrymag.com/leisure/drinks/g3122/christmas-mocktail-recipes/
-https://www.thisvivaciouslife.com/christmas-mocktails/
+* https://www.townandcountrymag.com/leisure/drinks/g3122/christmas-mocktail-recipes/
+* https://www.thisvivaciouslife.com/christmas-mocktails/
 
 ## Holiday Mule
 
