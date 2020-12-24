@@ -17,6 +17,15 @@
 * Lemon juice
 * Cinnamon syrup
 
+## Cranberry Spice
+
+* Sparkling water
+* Cranberry juice
+* Apple cider
+* Cranberries
+* Orange wedge
+* Peychaud's Bitters
+
 ## Jamaican Sorrel
 
 https://recipesfromapantry.com/jamaican-sorrel-drink-recipe/
@@ -29,12 +38,5 @@ https://recipesfromapantry.com/jamaican-sorrel-drink-recipe/
 * Orange peel
 * Simple syrup or maple syrup, to sweeten
 
-## Cranberry Spice
 
-* Sparkling water
-* Cranberry juice
-* Apple cider
-* Peychaud's Bitters
-* Cranberries
-* Orange wedge
 
